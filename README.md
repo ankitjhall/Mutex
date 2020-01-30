@@ -1,4 +1,3 @@
 # Mutex
 Mutex assignment
 
-.
